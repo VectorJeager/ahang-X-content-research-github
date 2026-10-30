@@ -1,0 +1,4 @@
+interface:
+  display_name: "阿杭内容研究"
+  short_description: "基于阿杭账号阶段研究，拆解选题写作工作流并生成有依据的内容草稿"
+  default_prompt: "使用 $ahang-content-research，基于已有证据拆解一个主题，并给出适合我的实践建议。"

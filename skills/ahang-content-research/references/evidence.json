@@ -1,0 +1,902 @@
+{
+  "schema_version": 1,
+  "dataset_kind": "selected_evidence_index",
+  "research_date": "2026-10-30",
+  "account": {
+    "handle": "Astronaut_1216",
+    "display_name": "叫我阿杭",
+    "profile_url": "https://x.com/Astronaut_1216",
+    "official_skill": false
+  },
+  "coverage": {
+    "packaged_record_count": 31,
+    "requested_authored_post_count": 1500,
+    "requested_order": "earliest_to_latest",
+    "ordinary_replies_count_toward_target": false,
+    "pure_reposts_count_toward_target": false,
+    "earliest_visible_record": "2025-01-08",
+    "historical_first_post_verified": false,
+    "first_1500_fulltext_verified": false,
+    "full_raw_observation_ledger_included": false,
+    "reported_session_observations": 451,
+    "reported_session_authored_scan": 160,
+    "prior_counts_note": "451和160仅为原会话报告的混合观察与扫描口径，不是包内记录数或完整正文数。",
+    "uncovered_intervals_note": "2025年末和2026年2月至7月未完成系统阅读；其他时间段也未证明连续无遗漏。"
+  },
+  "provenance": {
+    "source_materials": [
+      {
+        "filename": "Astronaut_1216_账号研究_阶段报告_2026-10-30.md",
+        "sha256": "7e7b1973828e33a9b783be0428509a76ce04dc600e0c53065d1cfb8676515bcb"
+      },
+      {
+        "filename": "expanded_post_notes.json",
+        "sha256": "ab5f9b7b663b33aca892e491f767c791fb82b6be726752d0788dc5768ff71a2c"
+      },
+      {
+        "filename": "expanded_sections.json",
+        "sha256": "4af303e83ffb846d3b394486a05452b332689abc4476e3199a37f996ed397143"
+      }
+    ],
+    "source_materials_included_as_original_files": false,
+    "raw_page_snapshots_included": false,
+    "packaging_is_new_research": false,
+    "description": "从此前会话的阶段报告、详解分析和摘录记录转换而来；结构验证不代表逐字核验或完整历史覆盖。"
+  },
+  "rights": {
+    "excerpts_author": "叫我阿杭 @Astronaut_1216",
+    "third_party_excerpts_relicensed": false,
+    "full_post_archive": false,
+    "note": "原帖摘录及第三方材料不在仓库MIT许可范围内；概述和分析为编辑内容。"
+  },
+  "records": [
+    {
+      "evidence_id": "E01",
+      "date": "2025-01-08",
+      "timezone": "Asia/Shanghai",
+      "title": "个人感受短帖",
+      "account_handle": "Astronaut_1216",
+      "source_url": "https://x.com/Astronaut_1216/status/1877006366360973447",
+      "canonical_post_url": "https://x.com/Astronaut_1216/status/1877006366360973447",
+      "source_kind": "x_post",
+      "observed_post_type": "authored_post_or_quote",
+      "read_status": "visible_text",
+      "read_status_note": "可见文字",
+      "excerpt": "分享欲逐渐变差",
+      "excerpt_provenance": {
+        "kind": "prior_session_visible_text",
+        "read_source_url": "https://x.com/Astronaut_1216/status/1877006366360973447",
+        "raw_page_snapshot_included": false,
+        "independently_rechecked_for_package": false
+      },
+      "full_post_text_included": false,
+      "summary": "这是一条简短的个人感受记录，尚未围绕 AI 工具或商业方法形成主题。",
+      "analysis": "适合用来认识账号早期的日常表达。它只能说明当时的一次状态，不能据此推断作者的长期性格或整体内容质量。",
+      "topics": [
+        "日常记录"
+      ]
+    },
+    {
+      "evidence_id": "E02",
+      "date": "2025-05-29",
+      "timezone": "Asia/Shanghai",
+      "title": "对日常写稿工作的感受",
+      "account_handle": "Astronaut_1216",
+      "source_url": "https://x.com/Astronaut_1216/status/1928086879699681655",
+      "canonical_post_url": "https://x.com/Astronaut_1216/status/1928086879699681655",
+      "source_kind": "x_post",
+      "observed_post_type": "authored_post_or_quote",
+      "read_status": "visible_text",
+      "read_status_note": "可见文字",
+      "excerpt": "人在写主持稿，演讲稿，宣讲稿，新闻稿等一系列稿件的时候",
+      "excerpt_provenance": {
+        "kind": "prior_session_visible_text",
+        "read_source_url": "https://x.com/Astronaut_1216/status/1928086879699681655",
+        "raw_page_snapshot_included": false,
+        "independently_rechecked_for_package": false
+      },
+      "full_post_text_included": false,
+      "summary": "作者谈到日常写稿工作的感受，呈现了具体的工作背景。",
+      "analysis": "具体工作类型能够成为后续选题材料，但本条并未展示 AI 改写流程或效率测量，不能据此确认某种工具的效果。",
+      "topics": [
+        "工作经历",
+        "真实材料"
+      ]
+    },
+    {
+      "evidence_id": "E03",
+      "date": "2025-06-16",
+      "timezone": "Asia/Shanghai",
+      "title": "确定 AI 应用实践方向",
+      "account_handle": "Astronaut_1216",
+      "source_url": "https://x.com/Astronaut_1216/status/1934476341954641999",
+      "canonical_post_url": "https://x.com/Astronaut_1216/status/1934476341954641999",
+      "source_kind": "x_post",
+      "observed_post_type": "authored_post_or_quote",
+      "read_status": "visible_text",
+      "read_status_note": "可见文字",
+      "excerpt": "今年的任务是要做ai应用的实践人",
+      "excerpt_provenance": {
+        "kind": "prior_session_visible_text",
+        "read_source_url": "https://x.com/Astronaut_1216/status/1934476341954641999",
+        "raw_page_snapshot_included": false,
+        "independently_rechecked_for_package": false
+      },
+      "full_post_text_included": false,
+      "summary": "作者公开给自己确定 AI 应用实践方向。",
+      "analysis": "这条短帖将关注点落在应用和实践，能作为定位形成的时间节点。定位是否持续落实，还应结合后续操作和产出判断。",
+      "topics": [
+        "公开学习",
+        "账号定位"
+      ]
+    },
+    {
+      "evidence_id": "E04",
+      "date": "2025-06-23",
+      "timezone": "Asia/Shanghai",
+      "title": "把公开分享作为学习记录",
+      "account_handle": "Astronaut_1216",
+      "source_url": "https://x.com/Astronaut_1216/status/1937016084730966113",
+      "canonical_post_url": "https://x.com/Astronaut_1216/status/1937016084730966113",
+      "source_kind": "x_post",
+      "observed_post_type": "authored_post_or_quote",
+      "read_status": "visible_text",
+      "read_status_note": "可见文字",
+      "excerpt": "反正火了也就火了\n没火我自己做笔记也是好的",
+      "excerpt_provenance": {
+        "kind": "prior_session_visible_text",
+        "read_source_url": "https://x.com/Astronaut_1216/status/1937016084730966113",
+        "raw_page_snapshot_included": false,
+        "independently_rechecked_for_package": false
+      },
+      "full_post_text_included": false,
+      "summary": "作者将公开分享视为学习积累，即使没有传播，也能为自己保留笔记。",
+      "analysis": "对新手的直接启发是让内容先服务真实学习。发布可以形成复盘材料，但本条并不能证明记录本身一定带来流量。",
+      "topics": [
+        "公开学习",
+        "内容积累"
+      ]
+    },
+    {
+      "evidence_id": "E05",
+      "date": "2025-06-25",
+      "timezone": "Asia/Shanghai",
+      "title": "讨论 AI 信息与核对能力",
+      "account_handle": "Astronaut_1216",
+      "source_url": "https://x.com/Astronaut_1216/status/1937697920058634272",
+      "canonical_post_url": "https://x.com/Astronaut_1216/status/1937697920058634272",
+      "source_kind": "x_post",
+      "observed_post_type": "authored_post_or_quote",
+      "read_status": "visible_text",
+      "read_status_note": "主帖及自回复可见",
+      "excerpt": "AI的出现本质上来说是节约信息搜索的成本",
+      "excerpt_provenance": {
+        "kind": "prior_session_visible_text",
+        "read_source_url": "https://x.com/Astronaut_1216/status/1937697920058634272",
+        "raw_page_snapshot_included": false,
+        "independently_rechecked_for_package": false
+      },
+      "full_post_text_included": false,
+      "summary": "主帖讨论 AI 与信息获取，并在自回复中提醒需要核对输出、保留收集和筛选能力。",
+      "analysis": "应将工具给出的答案与使用者的核对责任放在同一流程中。作者的概括并不是对 AI 全部能力的技术定义。",
+      "topics": [
+        "事实核对",
+        "信息筛选"
+      ]
+    },
+    {
+      "evidence_id": "E06",
+      "date": "2025-06-27",
+      "timezone": "Asia/Shanghai",
+      "title": "讨论提示词与任务理解",
+      "account_handle": "Astronaut_1216",
+      "source_url": "https://x.com/Astronaut_1216/status/1938617865193820319",
+      "canonical_post_url": "https://x.com/Astronaut_1216/status/1938617865193820319",
+      "source_kind": "x_post",
+      "observed_post_type": "authored_post_or_quote",
+      "read_status": "visible_text",
+      "read_status_note": "可见文字",
+      "excerpt": "更像是一个“专家对话流程的模板”",
+      "excerpt_provenance": {
+        "kind": "prior_session_visible_text",
+        "read_source_url": "https://x.com/Astronaut_1216/status/1938617865193820319",
+        "raw_page_snapshot_included": false,
+        "independently_rechecked_for_package": false
+      },
+      "full_post_text_included": false,
+      "summary": "作者讨论好用的提示词与实践经验、任务理解和提问能力之间的关系。",
+      "analysis": "值得研究的是提示词背后的任务步骤和判断标准。只复制措辞，可能无法适配新的材料、对象和交付要求。",
+      "topics": [
+        "提示词",
+        "任务理解"
+      ]
+    },
+    {
+      "evidence_id": "E07",
+      "date": "2025-06-27",
+      "timezone": "Asia/Shanghai",
+      "title": "两个模型分工与交叉检验",
+      "account_handle": "Astronaut_1216",
+      "source_url": "https://x.com/Astronaut_1216/status/1938598503024153031",
+      "canonical_post_url": "https://x.com/Astronaut_1216/status/1938598503024153031",
+      "source_kind": "x_post",
+      "observed_post_type": "authored_post_or_quote",
+      "read_status": "visible_text",
+      "read_status_note": "主帖及自回复可见",
+      "excerpt": "将模型 A 的输出复制到模型 B 中进行二次验证",
+      "excerpt_provenance": {
+        "kind": "prior_session_visible_text",
+        "read_source_url": "https://x.com/Astronaut_1216/status/1938598503024153031",
+        "raw_page_snapshot_included": false,
+        "independently_rechecked_for_package": false
+      },
+      "full_post_text_included": false,
+      "summary": "作者介绍两个模型的分工，通过复核、补充和多轮迭代改善任务结果。",
+      "analysis": "这体现了将流程拆开的意识。多个模型给出相同答案仍可能同时出错，因此涉及事实的内容仍需回到原始材料核对。",
+      "topics": [
+        "多模型",
+        "工作流",
+        "事实核对"
+      ]
+    },
+    {
+      "evidence_id": "E08",
+      "date": "2025-06-28",
+      "timezone": "Asia/Shanghai",
+      "title": "学习 SaaS 概念的记录",
+      "account_handle": "Astronaut_1216",
+      "source_url": "https://x.com/Astronaut_1216/status/1938989194350862681",
+      "canonical_post_url": "https://x.com/Astronaut_1216/status/1938989194350862681",
+      "source_kind": "x_post",
+      "observed_post_type": "authored_post_or_quote",
+      "read_status": "visible_text",
+      "read_status_note": "可见文字；概念未据此背书",
+      "excerpt": "今天新学了个名词叫saas",
+      "excerpt_provenance": {
+        "kind": "prior_session_visible_text",
+        "read_source_url": "https://x.com/Astronaut_1216/status/1938989194350862681",
+        "raw_page_snapshot_included": false,
+        "independently_rechecked_for_package": false
+      },
+      "full_post_text_included": false,
+      "summary": "作者记录学习 SaaS 概念时的个人理解，并举出常见软件作为例子。",
+      "analysis": "这条的研究价值在于公开学习过程。文中的个人类比不宜作为严谨定义直接引用，学习笔记应保留后续纠正空间。",
+      "topics": [
+        "公开学习",
+        "SaaS"
+      ]
+    },
+    {
+      "evidence_id": "E09",
+      "date": "2025-07-05",
+      "timezone": "Asia/Shanghai",
+      "title": "用园林设计类比产品需求",
+      "account_handle": "Astronaut_1216",
+      "source_url": "https://x.com/Astronaut_1216/status/1941493077371388370",
+      "canonical_post_url": "https://x.com/Astronaut_1216/status/1941493077371388370",
+      "source_kind": "x_post",
+      "observed_post_type": "authored_post_or_quote",
+      "read_status": "visible_text",
+      "read_status_note": "主帖及自回复可见",
+      "excerpt": "其实园林和建筑设计和产品思维是有相通的地方",
+      "excerpt_provenance": {
+        "kind": "prior_session_visible_text",
+        "read_source_url": "https://x.com/Astronaut_1216/status/1941493077371388370",
+        "raw_page_snapshot_included": false,
+        "independently_rechecked_for_package": false
+      },
+      "full_post_text_included": false,
+      "summary": "作者用熟悉的园林、建筑设计经验解释用户需求、业主需求与商业需求之间的关系。",
+      "analysis": "旧经验能够降低新知识的解释门槛。类比时还应说明适用范围，避免把两个行业的流程、责任和评价标准全部等同。",
+      "topics": [
+        "经验迁移",
+        "产品思维"
+      ]
+    },
+    {
+      "evidence_id": "E10",
+      "date": "2025-07-14",
+      "timezone": "Asia/Shanghai",
+      "title": "工作与学习体验的讨论",
+      "account_handle": "Astronaut_1216",
+      "source_url": "https://x.com/Astronaut_1216/status/1944785744796537125",
+      "canonical_post_url": "https://x.com/Astronaut_1216/status/1944785744796537125",
+      "source_kind": "x_post",
+      "observed_post_type": "authored_post_or_quote",
+      "read_status": "visible_text",
+      "read_status_note": "主帖及自回复可见",
+      "excerpt": "我入职一年，和身边将近70个同事/同学进行交流",
+      "excerpt_provenance": {
+        "kind": "prior_session_visible_text",
+        "read_source_url": "https://x.com/Astronaut_1216/status/1944785744796537125",
+        "raw_page_snapshot_included": false,
+        "independently_rechecked_for_package": false
+      },
+      "full_post_text_included": false,
+      "summary": "作者讨论上班与上学的体验差异，并通过自回复从回报、压力和不确定性等角度展开。",
+      "analysis": "个人观察可以形成有背景的选题，但没有抽样方法和原始记录时，应保留为作者观察，不能升级为普遍调查结论。",
+      "topics": [
+        "个人观察",
+        "职业叙事"
+      ]
+    },
+    {
+      "evidence_id": "E11",
+      "date": "2025-07-19",
+      "timezone": "Asia/Shanghai",
+      "title": "讨论 AI 改写内容",
+      "account_handle": "Astronaut_1216",
+      "source_url": "https://x.com/Astronaut_1216/status/1946588761682493667",
+      "canonical_post_url": "https://x.com/Astronaut_1216/status/1946588761682493667",
+      "source_kind": "x_post",
+      "observed_post_type": "authored_post_or_quote",
+      "read_status": "visible_text",
+      "read_status_note": "可见文字",
+      "excerpt": "那你就成功洗稿了",
+      "excerpt_provenance": {
+        "kind": "prior_session_visible_text",
+        "read_source_url": "https://x.com/Astronaut_1216/status/1946588761682493667",
+        "raw_page_snapshot_included": false,
+        "independently_rechecked_for_package": false
+      },
+      "full_post_text_included": false,
+      "summary": "作者在早期内容中谈到利用 AI 拆解、改写爆款文案。",
+      "analysis": "研究时可以分析其对内容结构的关注。实际创作应使用自己的素材、判断和表达，并处理引用与授权，不能把改写当作原创证明。",
+      "topics": [
+        "内容改写",
+        "原创表达"
+      ]
+    },
+    {
+      "evidence_id": "E12",
+      "date": "2025-08-24",
+      "timezone": "Asia/Shanghai",
+      "title": "从概念、实践到复述和使用",
+      "account_handle": "Astronaut_1216",
+      "source_url": "https://x.com/Astronaut_1216/status/1959532581025984534",
+      "canonical_post_url": "https://x.com/Astronaut_1216/status/1959532581025984534",
+      "source_kind": "x_post",
+      "observed_post_type": "authored_post_or_quote",
+      "read_status": "visible_text",
+      "read_status_note": "可见文字",
+      "excerpt": "最后自己描述几遍\n实际用起来",
+      "excerpt_provenance": {
+        "kind": "prior_session_visible_text",
+        "read_source_url": "https://x.com/Astronaut_1216/status/1959532581025984534",
+        "raw_page_snapshot_included": false,
+        "independently_rechecked_for_package": false
+      },
+      "full_post_text_included": false,
+      "summary": "作者把学习组织为获取概念、观看实操、自己复述和实际使用的过程。",
+      "analysis": "这一记录适合转化为学习检查：能否不用术语解释、能否完成一个小任务、能否指出结果的限制。",
+      "topics": [
+        "学习方法",
+        "实操验证"
+      ]
+    },
+    {
+      "evidence_id": "E13",
+      "date": "2025-08-29",
+      "timezone": "Asia/Shanghai",
+      "title": "收藏材料却未消化的反思",
+      "account_handle": "Astronaut_1216",
+      "source_url": "https://x.com/Astronaut_1216/status/1961261395800199268",
+      "canonical_post_url": "https://x.com/Astronaut_1216/status/1961261395800199268",
+      "source_kind": "x_post",
+      "observed_post_type": "authored_post_or_quote",
+      "read_status": "visible_text",
+      "read_status_note": "可见文字",
+      "excerpt": "真的不要想着先存起来，后面会看的",
+      "excerpt_provenance": {
+        "kind": "prior_session_visible_text",
+        "read_source_url": "https://x.com/Astronaut_1216/status/1961261395800199268",
+        "raw_page_snapshot_included": false,
+        "independently_rechecked_for_package": false
+      },
+      "full_post_text_included": false,
+      "summary": "作者反思将 AI 生成的复盘整理到飞书后，没有及时消化，随后又产生新的材料。",
+      "analysis": "收藏和整理只完成了材料保存。若要形成内容或能力，还需要选择一个问题、应用一次，并留下自己的结论。",
+      "topics": [
+        "素材整理",
+        "复盘"
+      ]
+    },
+    {
+      "evidence_id": "E14",
+      "date": "2025-09-06",
+      "timezone": "Asia/Shanghai",
+      "title": "自述拒绝工作机会",
+      "account_handle": "Astronaut_1216",
+      "source_url": "https://x.com/Astronaut_1216/status/1964243072574718429",
+      "canonical_post_url": "https://x.com/Astronaut_1216/status/1964243072574718429",
+      "source_kind": "x_post",
+      "observed_post_type": "authored_post_or_quote",
+      "read_status": "visible_text",
+      "read_status_note": "可见文字；未核验职位结果",
+      "excerpt": "拒掉了一个16k*14薪的工作",
+      "excerpt_provenance": {
+        "kind": "prior_session_visible_text",
+        "read_source_url": "https://x.com/Astronaut_1216/status/1964243072574718429",
+        "raw_page_snapshot_included": false,
+        "independently_rechecked_for_package": false
+      },
+      "full_post_text_included": false,
+      "summary": "作者自述拒绝一份工作机会，并表达了复杂感受。",
+      "analysis": "本条可作为职业叙事中的一个公开节点。薪资、职位和拒绝经过未独立核验，也不能与后来复盘自动拼成完整求职时间线。",
+      "topics": [
+        "职业叙事",
+        "作者自述"
+      ]
+    },
+    {
+      "evidence_id": "E15",
+      "date": "2025-09-20",
+      "timezone": "Asia/Shanghai",
+      "title": "讨论记录和真实表达",
+      "account_handle": "Astronaut_1216",
+      "source_url": "https://x.com/Astronaut_1216/status/1969247380764545200",
+      "canonical_post_url": "https://x.com/Astronaut_1216/status/1969247380764545200",
+      "source_kind": "x_post",
+      "observed_post_type": "authored_post_or_quote",
+      "read_status": "visible_text",
+      "read_status_note": "自有文字及引用可见",
+      "excerpt": "所以才说记录要在时时刻刻",
+      "excerpt_provenance": {
+        "kind": "prior_session_visible_text",
+        "read_source_url": "https://x.com/Astronaut_1216/status/1969247380764545200",
+        "raw_page_snapshot_included": false,
+        "independently_rechecked_for_package": false
+      },
+      "full_post_text_included": false,
+      "summary": "作者围绕记录、情绪释放和真实表达进行讨论，并引用了他人的内容。",
+      "analysis": "可借鉴随手积累具体场景和原话。附文只摘作者本人的文字，不将被引用者的观点混记为作者原创。",
+      "topics": [
+        "真实表达",
+        "记录"
+      ]
+    },
+    {
+      "evidence_id": "E16",
+      "date": "2025-10-01",
+      "timezone": "Asia/Shanghai",
+      "title": "讨论个人产品化",
+      "account_handle": "Astronaut_1216",
+      "source_url": "https://x.com/Astronaut_1216/status/1973353652791464088",
+      "canonical_post_url": "https://x.com/Astronaut_1216/status/1973353652791464088",
+      "source_kind": "x_post",
+      "observed_post_type": "reply",
+      "read_status": "visible_text",
+      "read_status_note": "回复，辅助材料",
+      "excerpt": "首先把自己面向市场，就是在获得普遍认可的一步",
+      "excerpt_provenance": {
+        "kind": "prior_session_visible_text",
+        "read_source_url": "https://x.com/Astronaut_1216/status/1973353652791464088",
+        "raw_page_snapshot_included": false,
+        "independently_rechecked_for_package": false
+      },
+      "full_post_text_included": false,
+      "summary": "这是一条讨论个人产品化的回复，涉及能力分享、市场反馈和自我标签。",
+      "analysis": "它只能作为辅助材料，不纳入原创主帖样本数。应用时应把服务对象、具体问题与交付结果写清楚。",
+      "topics": [
+        "产品化",
+        "回复"
+      ]
+    },
+    {
+      "evidence_id": "E17",
+      "date": "2025-11-01",
+      "timezone": "Asia/Shanghai",
+      "title": "联系商家和资源的方法讨论",
+      "account_handle": "Astronaut_1216",
+      "source_url": "https://x.com/Astronaut_1216/status/1984623582249697656",
+      "canonical_post_url": "https://x.com/Astronaut_1216/status/1984623582249697656",
+      "source_kind": "x_post",
+      "observed_post_type": "authored_post_or_quote",
+      "read_status": "visible_text",
+      "read_status_note": "主帖及两条自回复可见",
+      "excerpt": "我自己测试了一个SOP，已经跑通了",
+      "excerpt_provenance": {
+        "kind": "prior_session_visible_text",
+        "read_source_url": "https://x.com/Astronaut_1216/status/1984623582249697656",
+        "raw_page_snapshot_included": false,
+        "independently_rechecked_for_package": false
+      },
+      "full_post_text_included": false,
+      "summary": "主帖提出联系资源的问题，后续自回复补充研究产业链、获取产品信息和与商家交流的步骤。",
+      "analysis": "这是从观点进入步骤的样例。是否适合另一个行业，仍取决于资料真实性、对方需求与后续交付，不能仅凭步骤形式判断已经验证。",
+      "topics": [
+        "商业联系",
+        "SOP",
+        "交付"
+      ]
+    },
+    {
+      "evidence_id": "E18",
+      "date": "2026-01-01",
+      "timezone": "Asia/Shanghai",
+      "title": "年末复盘及公开构建计划",
+      "account_handle": "Astronaut_1216",
+      "source_url": "https://x.com/Astronaut_1216/status/2006591603100549412",
+      "canonical_post_url": "https://x.com/Astronaut_1216/status/2006591603100549412",
+      "source_kind": "x_post",
+      "observed_post_type": "authored_post_or_quote",
+      "read_status": "detail_text",
+      "read_status_note": "已进入详情读取正文",
+      "excerpt": "以前我记录时间，是用柳比歇夫的方法倒逼专注",
+      "excerpt_provenance": {
+        "kind": "prior_session_detail_text",
+        "read_source_url": "https://x.com/Astronaut_1216/status/2006591603100549412",
+        "raw_page_snapshot_included": false,
+        "independently_rechecked_for_package": false
+      },
+      "full_post_text_included": false,
+      "summary": "年末复盘将工作、转行、公众号、副业和账号成长组织为个人故事，并提出继续公开构建的方向。",
+      "analysis": "这篇可用于研究叙事组织方式。收入、粉丝增长、薪资变化及推荐率仍属于作者自述，完整故事不等于全部事实已经独立核实。",
+      "topics": [
+        "公开构建",
+        "职业叙事",
+        "作者自述"
+      ]
+    },
+    {
+      "evidence_id": "E19",
+      "date": "2026-08-01",
+      "timezone": "Asia/Shanghai",
+      "title": "讨论 X 的背书和商业价值",
+      "account_handle": "Astronaut_1216",
+      "source_url": "https://x.com/Astronaut_1216/status/2083543931589980566",
+      "canonical_post_url": "https://x.com/Astronaut_1216/status/2083543931589980566",
+      "source_kind": "x_post",
+      "observed_post_type": "authored_post_or_quote",
+      "read_status": "preview_only",
+      "read_status_note": "长帖预览",
+      "excerpt": "因为X的变现意义是不大的",
+      "excerpt_provenance": {
+        "kind": "prior_session_preview_only",
+        "read_source_url": "https://x.com/Astronaut_1216/status/2083543931589980566",
+        "raw_page_snapshot_included": false,
+        "independently_rechecked_for_package": false
+      },
+      "full_post_text_included": false,
+      "summary": "已读预览讨论 X 的商业背书价值，并涉及作者对收入来源的判断。",
+      "analysis": "这是特定作者、特定阶段的看法。不能将其概括为 X 对所有人的变现价值，也不能据预览推算收益结构。",
+      "topics": [
+        "商业承接",
+        "作者自述"
+      ]
+    },
+    {
+      "evidence_id": "E20",
+      "date": "2026-08-02",
+      "timezone": "Asia/Shanghai",
+      "title": "以 Skill 销售案例引入选题",
+      "account_handle": "Astronaut_1216",
+      "source_url": "https://x.com/Astronaut_1216/status/2083928825491001457",
+      "canonical_post_url": "https://x.com/Astronaut_1216/status/2083928825491001457",
+      "source_kind": "x_post",
+      "observed_post_type": "authored_post_or_quote",
+      "read_status": "preview_only",
+      "read_status_note": "长帖预览",
+      "excerpt": "我真的服了，一个 Skill 一周卖掉了70 w！！！",
+      "excerpt_provenance": {
+        "kind": "prior_session_preview_only",
+        "read_source_url": "https://x.com/Astronaut_1216/status/2083928825491001457",
+        "raw_page_snapshot_included": false,
+        "independently_rechecked_for_package": false
+      },
+      "full_post_text_included": false,
+      "summary": "作者用一个 Skill 销售案例引入产品和变现选题。",
+      "analysis": "本条为长帖预览，销售额归属、时间口径、成本和证据未核验。可研究开头的结果吸引方式，不能把数字当成可复制承诺。",
+      "topics": [
+        "结果钩子",
+        "收益主张",
+        "Skill"
+      ]
+    },
+    {
+      "evidence_id": "E21",
+      "date": "2026-08-12",
+      "timezone": "Asia/Shanghai",
+      "title": "AI 辅助短视频生产的复盘选题",
+      "account_handle": "Astronaut_1216",
+      "source_url": "https://x.com/Astronaut_1216/status/2087530619857465438",
+      "canonical_post_url": "https://x.com/Astronaut_1216/status/2087530619857465438",
+      "source_kind": "x_post",
+      "observed_post_type": "authored_post_or_quote",
+      "read_status": "article_card_only",
+      "read_status_note": "文章卡片，未完整读取",
+      "excerpt": "如何用AI解决70%的问题",
+      "excerpt_provenance": {
+        "kind": "prior_session_article_card_only",
+        "read_source_url": "https://x.com/Astronaut_1216/status/2087530619857465438",
+        "raw_page_snapshot_included": false,
+        "independently_rechecked_for_package": false
+      },
+      "full_post_text_included": false,
+      "summary": "文章卡片以短视频生产与 AI 辅助的阶段复盘为主题。",
+      "analysis": "摘录来自卡片标题片段，不是正文全文。仅据标题无法确认百分比的计算方式，也无法还原具体生产流程。",
+      "topics": [
+        "内容生产",
+        "短视频",
+        "文章卡片"
+      ]
+    },
+    {
+      "evidence_id": "E22",
+      "date": "2026-08-22",
+      "timezone": "Asia/Shanghai",
+      "title": "自媒体商业思考",
+      "account_handle": "Astronaut_1216",
+      "source_url": "https://www.zephyr8.asia/articles/2090966733494612237",
+      "canonical_post_url": "https://x.com/Astronaut_1216/status/2090966733494612237",
+      "source_kind": "author_website",
+      "observed_post_type": "authored_post_or_quote",
+      "read_status": "author_website_edited",
+      "read_status_note": "作者网站正文已读；为整理版本",
+      "excerpt": "自媒体的核心不是涨粉，而是让对的人信任你。",
+      "excerpt_provenance": {
+        "kind": "prior_session_author_website_edited",
+        "read_source_url": "https://www.zephyr8.asia/articles/2090966733494612237",
+        "raw_page_snapshot_included": false,
+        "independently_rechecked_for_package": false
+      },
+      "full_post_text_included": false,
+      "summary": "作者网站整理版讨论目标用户、内容、信任、产品承接以及不同交付形式。",
+      "analysis": "这些内容适合用作检查账号定位的提问框架，但仍属于作者方法论。网站整理版也不应自动视为 X 首次发布时的逐字版本。",
+      "topics": [
+        "定位",
+        "信任",
+        "商业承接"
+      ]
+    },
+    {
+      "evidence_id": "E23",
+      "date": "2026-09-05",
+      "timezone": "Asia/Shanghai",
+      "title": "两万粉丝阶段复盘",
+      "account_handle": "Astronaut_1216",
+      "source_url": "https://x.com/Astronaut_1216/status/2096077463784956236",
+      "canonical_post_url": "https://x.com/Astronaut_1216/status/2096077463784956236",
+      "source_kind": "x_post",
+      "observed_post_type": "authored_post_or_quote",
+      "read_status": "preview_only",
+      "read_status_note": "长帖预览",
+      "excerpt": "我做完一件小事，就拆开，写出来，发出去",
+      "excerpt_provenance": {
+        "kind": "prior_session_preview_only",
+        "read_source_url": "https://x.com/Astronaut_1216/status/2096077463784956236",
+        "raw_page_snapshot_included": false,
+        "independently_rechecked_for_package": false
+      },
+      "full_post_text_included": false,
+      "summary": "两万粉丝阶段复盘的已读预览强调持续分享实践。",
+      "analysis": "这能支持对内容积累方式的观察。没有完整同期数据时，无法确定某项写法对涨粉的独立贡献。",
+      "topics": [
+        "成长复盘",
+        "内容积累"
+      ]
+    },
+    {
+      "evidence_id": "E24",
+      "date": "2026-09-08",
+      "timezone": "Asia/Shanghai",
+      "title": "用强结果表述引入模型体验",
+      "account_handle": "Astronaut_1216",
+      "source_url": "https://x.com/Astronaut_1216/status/2097172571968143717",
+      "canonical_post_url": "https://x.com/Astronaut_1216/status/2097172571968143717",
+      "source_kind": "x_post",
+      "observed_post_type": "authored_post_or_quote",
+      "read_status": "preview_only",
+      "read_status_note": "长帖预览，效果未核验",
+      "excerpt": "如果你赚不到钱，一定是因为你没有用Astra",
+      "excerpt_provenance": {
+        "kind": "prior_session_preview_only",
+        "read_source_url": "https://x.com/Astronaut_1216/status/2097172571968143717",
+        "raw_page_snapshot_included": false,
+        "independently_rechecked_for_package": false
+      },
+      "full_post_text_included": false,
+      "summary": "作者以强烈的结果判断引入模型使用体验。",
+      "analysis": "这是需要单独审视的绝对化表达。某次工具测试不能证明不用该模型就是收入不足的原因，文档将它作为表达研究样例保留。",
+      "topics": [
+        "强情绪",
+        "收益主张",
+        "模型体验"
+      ]
+    },
+    {
+      "evidence_id": "E25",
+      "date": "2026-09-11",
+      "timezone": "Asia/Shanghai",
+      "title": "订阅教程与合作内容",
+      "account_handle": "Astronaut_1216",
+      "source_url": "https://x.com/Astronaut_1216/status/2098321000828150136",
+      "canonical_post_url": "https://x.com/Astronaut_1216/status/2098321000828150136",
+      "source_kind": "x_post",
+      "observed_post_type": "authored_post_or_quote",
+      "read_status": "article_card_only",
+      "read_status_note": "文章卡片及付费合作标签",
+      "excerpt": "月入百万的GPT代充生意",
+      "excerpt_provenance": {
+        "kind": "prior_session_article_card_only",
+        "read_source_url": "https://x.com/Astronaut_1216/status/2098321000828150136",
+        "raw_page_snapshot_included": false,
+        "independently_rechecked_for_package": false
+      },
+      "full_post_text_included": false,
+      "summary": "文章卡片围绕订阅相关教程展开，本次此前读取时显示付费合作标签。",
+      "analysis": "摘录为标题片段，收入数字和教程细节未逐项核验。合作标签能说明该条的商业关系，不能扩展到作者所有推荐。",
+      "topics": [
+        "付费合作",
+        "文章卡片"
+      ]
+    },
+    {
+      "evidence_id": "E26",
+      "date": "2026-09-20",
+      "timezone": "Asia/Shanghai",
+      "title": "提出去水印流程需求",
+      "account_handle": "Astronaut_1216",
+      "source_url": "https://x.com/Astronaut_1216/status/2101669117145301342",
+      "canonical_post_url": "https://x.com/Astronaut_1216/status/2101669117145301342",
+      "source_kind": "x_post",
+      "observed_post_type": "authored_post_or_quote",
+      "read_status": "visible_text",
+      "read_status_note": "可见文字",
+      "excerpt": "使用之前必须看30秒广告",
+      "excerpt_provenance": {
+        "kind": "prior_session_visible_text",
+        "read_source_url": "https://x.com/Astronaut_1216/status/2101669117145301342",
+        "raw_page_snapshot_included": false,
+        "independently_rechecked_for_package": false
+      },
+      "full_post_text_included": false,
+      "summary": "作者从日常使用中的广告干扰提出一个工具流程需求。",
+      "analysis": "具体的不便能够形成清楚的选题起点。本条说明需求表达，不代表后续工具已经完成或具备全面适用性。",
+      "topics": [
+        "具体痛点",
+        "选题"
+      ]
+    },
+    {
+      "evidence_id": "E27",
+      "date": "2026-09-21",
+      "timezone": "Asia/Shanghai",
+      "title": "发布去水印 Skill",
+      "account_handle": "Astronaut_1216",
+      "source_url": "https://x.com/Astronaut_1216/status/2101874096439255174",
+      "canonical_post_url": "https://x.com/Astronaut_1216/status/2101874096439255174",
+      "source_kind": "x_post",
+      "observed_post_type": "authored_post_or_quote",
+      "read_status": "preview_only",
+      "read_status_note": "长帖预览",
+      "excerpt": "十秒无水印下载一个视频！",
+      "excerpt_provenance": {
+        "kind": "prior_session_preview_only",
+        "read_source_url": "https://x.com/Astronaut_1216/status/2101874096439255174",
+        "raw_page_snapshot_included": false,
+        "independently_rechecked_for_package": false
+      },
+      "full_post_text_included": false,
+      "summary": "后续帖子介绍将相关流程整理成 Skill，并给出使用场景。",
+      "analysis": "与 E26 连读，可观察需求到发布的内容延续。时间与效果主张未独立测试，也应分别考虑素材的使用权和平台要求。",
+      "topics": [
+        "项目系列",
+        "Skill"
+      ]
+    },
+    {
+      "evidence_id": "E28",
+      "date": "2026-10-01",
+      "timezone": "Asia/Shanghai",
+      "title": "逐字稿工具使用方式",
+      "account_handle": "Astronaut_1216",
+      "source_url": "https://x.com/Astronaut_1216/status/2105525042075566088",
+      "canonical_post_url": "https://x.com/Astronaut_1216/status/2105525042075566088",
+      "source_kind": "x_post",
+      "observed_post_type": "authored_post_or_quote",
+      "read_status": "preview_only",
+      "read_status_note": "长帖预览",
+      "excerpt": "指定Skill＋提供来源＋明确范围＋固定保存目录＋交代成品标准",
+      "excerpt_provenance": {
+        "kind": "prior_session_preview_only",
+        "read_source_url": "https://x.com/Astronaut_1216/status/2105525042075566088",
+        "raw_page_snapshot_included": false,
+        "independently_rechecked_for_package": false
+      },
+      "full_post_text_included": false,
+      "summary": "作者将一类工具任务的输入要求组织成较明确的任务结构。",
+      "analysis": "可借鉴提供来源、边界和完成标准的习惯。本条仍为预览，不能据此确认全部工具功能、速度和成本。",
+      "topics": [
+        "任务描述",
+        "工作流",
+        "成品标准"
+      ]
+    },
+    {
+      "evidence_id": "E29",
+      "date": "2026-10-07",
+      "timezone": "Asia/Shanghai",
+      "title": "多模型写作桥与开源资源",
+      "account_handle": "Astronaut_1216",
+      "source_url": "https://x.com/Astronaut_1216/status/2107672810755923968",
+      "canonical_post_url": "https://x.com/Astronaut_1216/status/2107672810755923968",
+      "source_kind": "x_post",
+      "observed_post_type": "authored_post_or_quote",
+      "read_status": "preview_only",
+      "read_status_note": "长帖预览及公开页面材料",
+      "excerpt": "Codex 整理我们聊过的东西，Gemini 3.8 Flash 负责把稿子润得更好读",
+      "excerpt_provenance": {
+        "kind": "prior_session_public_reprint_and_x_preview",
+        "read_source_url": "https://www.soarlytics.com/en/accounts/Astronaut_1216",
+        "raw_page_snapshot_included": false,
+        "independently_rechecked_for_package": false,
+        "note": "较完整措辞来自此前公开检索转载材料；X原帖当时只读取预览。"
+      },
+      "full_post_text_included": false,
+      "summary": "公开材料介绍把材料整理与写作润色分配给不同模型，并提及完整性和事实核对。",
+      "analysis": "可研究如何交代上下文、原意和交付标准。模型偏好、渠道价格和节省比例属于作者当时的判断，不能当成当前购买建议。",
+      "topics": [
+        "多模型",
+        "写作",
+        "工作流"
+      ]
+    },
+    {
+      "evidence_id": "E30",
+      "date": "2026-10-09",
+      "timezone": "Asia/Shanghai",
+      "title": "数据接口场景推荐",
+      "account_handle": "Astronaut_1216",
+      "source_url": "https://x.com/Astronaut_1216/status/2108544691612635552",
+      "canonical_post_url": "https://x.com/Astronaut_1216/status/2108544691612635552",
+      "source_kind": "x_post",
+      "observed_post_type": "authored_post_or_quote",
+      "read_status": "preview_only",
+      "read_status_note": "长帖预览，官方主页显示合作标签",
+      "excerpt": "都不直接卖数据，是直接卖数据接口",
+      "excerpt_provenance": {
+        "kind": "prior_session_preview_only",
+        "read_source_url": "https://x.com/Astronaut_1216/status/2108544691612635552",
+        "raw_page_snapshot_included": false,
+        "independently_rechecked_for_package": false
+      },
+      "full_post_text_included": false,
+      "summary": "数据接口推荐将产品能力与具体业务任务连接，官方主页此前读取时显示付费合作标签。",
+      "analysis": "适合研究从技术能力转向用户场景的解释方式。极强的能力及前景表述需要另外核验，本报告不确认其覆盖范围与经营结果。",
+      "topics": [
+        "付费合作",
+        "场景表达"
+      ]
+    },
+    {
+      "evidence_id": "E31",
+      "date": "2026-10-29",
+      "timezone": "Asia/Shanghai",
+      "title": "用邮件 Agent 整理合作线索",
+      "account_handle": "Astronaut_1216",
+      "source_url": "https://x.com/Astronaut_1216/status/2115797698309706116",
+      "canonical_post_url": "https://x.com/Astronaut_1216/status/2115797698309706116",
+      "source_kind": "x_post",
+      "observed_post_type": "authored_post_or_quote",
+      "read_status": "detail_text",
+      "read_status_note": "已展开正文，显示合作标签",
+      "excerpt": "没有的信息不要猜",
+      "excerpt_provenance": {
+        "kind": "prior_session_detail_text",
+        "read_source_url": "https://x.com/Astronaut_1216/status/2115797698309706116",
+        "raw_page_snapshot_included": false,
+        "independently_rechecked_for_package": false
+      },
+      "full_post_text_included": false,
+      "summary": "邮件 Agent 长帖描述整理某段时间内的合作相关邮件、按项目去重、列进展与后续安排的任务。",
+      "analysis": "这个任务同时包含材料范围、输出字段和缺失信息处理要求，适合研究如何展示实际使用。作者对损失、收入和提效的描述仍未独立核验。",
+      "topics": [
+        "邮件任务",
+        "场景表达",
+        "事实核对",
+        "付费合作"
+      ]
+    }
+  ]
+}
